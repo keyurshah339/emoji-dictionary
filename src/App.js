@@ -5,7 +5,13 @@ const emojiDictionary = {
   "😊": "Smiling",
   "🤔": "thinking",
   "😨": "surprised",
-  "😫": "tired"
+  "😫": "tired",
+  "😉": "Winking Face",
+  "🤗": "Hugging Face",
+  "😋": "Face Savoring Food",
+  "😛": "Face with Tongue",
+  "🤩": "Star-Struck",
+  "🤭": "Face with Hand Over Mouth"
 };
 
 var emojis = Object.keys(emojiDictionary);
